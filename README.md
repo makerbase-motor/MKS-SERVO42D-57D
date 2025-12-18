@@ -11,6 +11,10 @@ competitions .
 |Manual| Content | Firmware | Date | 
 |------------|--------------------|--------------------|--------------------|
 |V1.0.0|First release version|V1.0.0|Mar-2023|
-|V1.0.1|1. Two control modes have been added: serial open-loop and serial closed-loop. 2. The operating current can be set to any value.3. Speed and acceleration have been redefined, and the curve acceleration and deceleration functions have been improved.4. Added a command to set the current position to 0 O'clock.5. Added group CAN ID management.|V1.0.1|Apr-2023|
+|V1.0.1|1. Two control modes have been added: serial open-loop and serial closed-loop. 
+2. The operating current can be set to any value.
+3. Speed and acceleration have been redefined, and the curve acceleration and deceleration functions have been improved.
+4. Added a command to set the current position to 0 O'clock.
+5. Added group CAN ID management.|V1.0.1|Apr-2023|
 
 
